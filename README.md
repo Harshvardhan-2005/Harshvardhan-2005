@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshvardhan Kumar  
 
-<!--
-**Harshvardhan-2005/Harshvardhan-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a 3rd Year Information Technology engineering student passionate about coding, technology, and building impactful real-world projects. I enjoy working on innovative solutions, especially in **Web Development, Machine Learning, AI, and Data Science**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies I Work With  
+
+**Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
+**Backend:** Node.js, Express  
+**Databases:** MySQL, MongoDB  
+**Programming Languages:** Python, C++, Java, JavaScript  
+**Machine Learning / AI:** Scikit-learn, TensorFlow, OpenCV  
+**Tools & Platforms:** Git, GitHub, VS Code, Google Colab, Streamlit, Postman, Arduino  
+
+---
+
+## 🌱 Currently Learning  
+- Full Stack Web Development (MERN Stack)  
+- Cloud Technologies & Microservices  
+- Deep Learning & Agentic AI  
+
+---
+
+## 📊 GitHub Stats  
+![Harshvardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshvardhan-2005&show_icons=true&theme=radical)  
+
+---
+
+## 💬 Let's Connect  
+- [LinkedIn](https://www.linkedin.com)  
+- [Twitter](https://twitter.com)  
+- [GitHub](https://github.com/Harshvardhan-2005)  
