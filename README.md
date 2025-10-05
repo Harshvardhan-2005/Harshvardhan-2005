@@ -29,6 +29,6 @@ I'm a 3rd Year Information Technology engineering student passionate about codin
 ---
 
 ## 💬 Let's Connect  
-- [LinkedIn](https://www.linkedin.com)  
-- [Twitter](https://twitter.com)  
-- [GitHub](https://github.com/Harshvardhan-2005)  
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/harshvardhan-kumar-17250428a/))  
+- [Twitter]([https://twitter.com](https://x.com/Harshvardh44012))  
+  
