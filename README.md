@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshvardhan Kumar  
+# 👋 Hi, I'm Harshvardhan Kumar Arya
 
 ## 🚀 About Me  
 I'm a 3rd Year Information Technology engineering student passionate about coding, technology, and building impactful real-world projects. I enjoy working on innovative solutions, especially in **Web Development, Machine Learning, AI, and Data Science**.  
