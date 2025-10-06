@@ -10,7 +10,7 @@ I'm a 3rd Year Information Technology engineering student passionate about codin
 **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
 **Backend:** Node.js, Express  
 **Databases:** MySQL, MongoDB  
-**Programming Languages:** Python, C++, Java, JavaScript  
+**Programming Languages:** Python, C, C++, Java, JavaScript  
 **Machine Learning / AI:** Scikit-learn, TensorFlow, OpenCV  
 **Tools & Platforms:** Git, GitHub, VS Code, Google Colab, Streamlit, Postman, Arduino  
 
