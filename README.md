@@ -12,7 +12,7 @@ I'm a 3rd Year Information Technology engineering student passionate about codin
 **Databases:** MySQL, MongoDB  
 **Programming Languages:** Python, C, C++, Java, JavaScript  
 **Machine Learning / AI:** Scikit-learn, TensorFlow, OpenCV  
-**Tools & Platforms:** Git, GitHub, VS Code, Google Colab, Streamlit, Postman, Arduino and Autodesk 360
+**Tools & Platforms:** Git, GitHub, VS Code, Google Colab, Streamlit, Postman, Arduino, and Autodesk 360
 
 ---
 
