@@ -19,9 +19,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="60" alt="app store logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googleplay/414141" height="60" alt="play store logo"  />
+  
 </div>
 
 ###
