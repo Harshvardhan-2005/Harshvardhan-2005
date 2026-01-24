@@ -48,7 +48,7 @@
 ###
 
 ## 🚀 About Me  
-I'm a 3rd-year Information Technology engineering student passionate about coding, technology, and building impactful real-world projects. I enjoy working on innovative solutions, especially in **Web Development, Machine Learning, AI, Web3, and Data Science**.  
+I'm a 3rd-year Information Technology engineering student passionate about coding, technology, and building impactful real-world projects. I enjoy working on innovative solutions, especially in **Web Development, Machine Learning, AI, Web3, App Developer and Data Science**.  
 
 ---
 
