@@ -72,5 +72,5 @@ I'm a 3rd-year Information Technology engineering student passionate about codin
 
 ## 💬 Let's Connect  
 - [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/harshvardhan-kumar-17250428a/))  
-- [Twitter]([https://twitter.com](https://x.com/Harshvardh44012))  
+- [Twitter]([https://twitter.com](https://x.com/Harshvardhan953))  
   
