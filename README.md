@@ -41,19 +41,14 @@ Building scalable backend systems, AI applications & developer tools.
 
 | Project | Description |
 |---------|-------------|
-| 🤖 Promptica | Full Stack AI Chat Platform with Groq API, React, Express & MongoDB |
+| ⚡ LocoMind | Local AI Agent with RAG & Tool Calling |
 | 💬 AI Chatbot Platform | Enterprise-grade chatbot backend using FastAPI & PostgreSQL |
+| 🤖 Promptica | Full Stack AI Chat Platform with Groq API, React, Express & MongoDB |
 | 🛒 WhatsApp Commerce | Commerce automation using Meta APIs, FastAPI & AI |
 | 🧠 AI Engineer Agent | Autonomous Multi-Agent system built using LangGraph |
-| ⚡ LocoMind | Local AI Agent with RAG & Tool Calling |
 | 📈 AlgoView | Interactive Algorithm Visualizer built using Next.js |
 
-# 🚧 Currently Building
 
-- 🤖 Enterprise AI Chatbot Platform
-- 💬 WhatsApp Commerce Platform
-- 🧠 Agentic AI Workflows
-- ⚡ High-performance FastAPI Backends
 
 ---
 
