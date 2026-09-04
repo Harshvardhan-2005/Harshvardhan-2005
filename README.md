@@ -43,6 +43,7 @@ Building scalable backend systems, AI applications & developer tools.
 |---------|-------------|
 | ⚡ LocoMind | Local AI Agent with RAG & Tool Calling |
 | 💬 AI Chatbot Platform | Enterprise-grade chatbot backend using FastAPI & PostgreSQL |
+| ☁️ Serverless E-Commerce Data Lake | Automated AWS serverless ETL pipeline for multi-format e-commerce analytics |
 | 🤖 Promptica | Full Stack AI Chat Platform with Groq API, React, Express & MongoDB |
 | 🛒 WhatsApp Commerce | Commerce automation using Meta APIs, FastAPI & AI |
 | 🧠 AI Engineer Agent | Autonomous Multi-Agent system built using LangGraph |
